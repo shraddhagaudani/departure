@@ -12,6 +12,11 @@ A new Flutter project.
 <img src="https://github.com/shraddhagaudani/departure/assets/122030732/52c0109b-23d2-4eeb-98ad-7270f2e3adb7" width ="220px">
 
 
+<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/89ee695f-a72f-48f2-9bb4-9f50da7dc3f5" width ="220px">
+<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/7328b925-0123-41ac-ab36-0da8ee7fc1d2" width ="220px">
+<img src="https://github.com/shraddhagaudani/departure/assets/122030732/cba9c407-3cc6-4031-bf56-cc448c33bbd3" width ="220px">
+
+
 
 
 
