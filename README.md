@@ -26,6 +26,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+
+https://github.com/shraddhagaudani/departure/assets/122030732/26ffc0f9-abdd-4292-99a0-f08476358f9f
+
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
