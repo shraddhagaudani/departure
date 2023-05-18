@@ -11,7 +11,7 @@ class _Splashscreen_pageState extends State<Splashscreen_page> {
   @override
   Widget build(BuildContext context) {
     Future.delayed(
-      const Duration(seconds: 5),
+      const Duration(seconds: 20,),
       () => Navigator.of(context).pushReplacementNamed('/'),
     );
     return Scaffold(
